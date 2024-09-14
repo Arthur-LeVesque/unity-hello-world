@@ -8,7 +8,7 @@ Open any of the scenes located in thier respective example folder and click play
 
 ## Notes
 
-Unit options have been ignored to save repo space so visual scripting nodes will need to be generated on first open to remove warnings.
+Unit options have been ignored to save repo space so visual scripting will need to be initialized.
 
 ## CSharp.BehaviourExample
 
